@@ -1,2 +1,2 @@
 # the-better-ctrl-f
-:page:
+:page_facing_up:
