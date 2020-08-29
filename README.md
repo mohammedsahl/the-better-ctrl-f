@@ -1,2 +1,3 @@
 # the-better-ctrl-f
-:page_facing_up:
+
+Run with `gopherjs build go/app.go -o app.js` in root dir
