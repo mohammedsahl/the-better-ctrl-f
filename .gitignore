@@ -17,3 +17,6 @@
 # GopherJS output files
 app.js
 app.js.map
+
+#API keys
+.env
